@@ -6,3 +6,4 @@ if hungry=="yes" and hungry=="Y" and hungry=="y":
 else:
     print("do homework") 
     print("drink milk")
+    print("sleep")
